@@ -1,4 +1,4 @@
-# JOGO DA PRONG EM JS
+# JOGO DO PRONG EM JS
 👨‍💻JOGO DO PRONG COM HTML E JS.
 
 <img src="FOTO.png" align="center" width="500"> <br>
